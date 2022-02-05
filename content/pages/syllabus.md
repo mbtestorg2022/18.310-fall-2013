@@ -61,7 +61,36 @@ Grading
 
 The grade will be made up of problem sets and writing assignments (55%), and three quizzes (15% each). The homework will include writing assignments, some of which will have to be revised after we give comments on them. Depending on their length, the writing assignments in the homework may be weighted more heavily than the rest of the problems.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem sets and writing assignments | 55 |
-| 3 Quizzes @ 15% each | 45
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets and writing assignments
+{{< tdclose >}}
+{{< tdopen >}}
+55
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 Quizzes @ 15% each
+{{< tdclose >}}
+{{< tdopen >}}
+45
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
