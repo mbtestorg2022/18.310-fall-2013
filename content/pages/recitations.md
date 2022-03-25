@@ -166,7 +166,7 @@ Revise lecture notes: Do Problem 1 of [Homework 3 (PDF)]({{< baseurl >}}/resourc
 
 [Sample Proofs 1 and 2 (PDF)]({{< baseurl >}}/resources/mit18_310f13sample3)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Sketch of the Logic (PDF)]({{< baseurl >}}/resources/mit18_310f13_proofsketch)
+[Sketch of the Logic (PDF)]({{< baseurl >}}/resources/mit18_310f13_proofsketch)
 
 
 {{< tdclose >}}

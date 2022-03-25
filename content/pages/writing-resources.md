@@ -7,10 +7,10 @@ uid: 905d4790-2adb-1c3c-4fce-7cbc62f33659
 Files
 -----
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[An Example of a Proof with Guiding Text (PDF)]({{< baseurl >}}/resources/mit18_310f13_proof_guiding), [An Example of a Proof with Guiding Text (TEX)]({{< baseurl >}}/resources/pigeonhole_classsr)  
+[An Example of a Proof with Guiding Text (PDF)]({{< baseurl >}}/resources/mit18_310f13_proof_guiding), [An Example of a Proof with Guiding Text (TEX)]({{< baseurl >}}/resources/pigeonhole_classsr)  
 This example illustrates how to write a proof and how to use guiding text to help readers follow your argument. A LaTex version of this file is also provided for use as a model.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Annotated Journal Article (PDF)]({{< baseurl >}}/resources/mit18_310f13_max_overhang)  
+[Annotated Journal Article (PDF)]({{< baseurl >}}/resources/mit18_310f13_max_overhang)  
 This annotated journal article\* illustrates structuring a longer paper and various other math writing conventions and strategies.  
 \*Paterson, M., Y. Peres, et al. "[Maximum Overhang](http://www.maa.org/programs/maa-awards/writing-awards/maximum-overhang)". _American Mathematical Monthly_ 116, no. 9 (2009): 763–87.
 
