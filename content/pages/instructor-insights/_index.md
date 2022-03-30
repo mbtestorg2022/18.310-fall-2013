@@ -22,7 +22,7 @@ Course Outcomes
 
 ### Possibilities for Further Study/Careers
 
-This course prepared students to enroll in courses such as [_18.212 Algebraic Combinatorics_](/courses/18-212-algebraic-combinatorics-spring-2019), [_18.440 Probability and Random Variables_](/courses/18-440-probability-and-random-variables-spring-2014/), and [_6.006 Introduction to Algorithms_](/courses/6-006-introduction-to-algorithms-fall-2011/).
+This course prepared students to enroll in courses such as [_18.212 Algebraic Combinatorics_](/courses/18-212-algebraic-combinatorics-spring-2019), [_18.440 Probability and Random Variables_](/courses/18-440-probability-and-random-variables-spring-2014), and [_6.006 Introduction to Algorithms_](/courses/6-006-introduction-to-algorithms-fall-2011).
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
@@ -40,7 +40,7 @@ Curriculum Information
 
 ### Prerequisites
 
-[_18.02 Calculus II: Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010/)  
+[_18.02 Calculus II: Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010)  
 GIR ![](/images/educator/icon-question-gir.png)
 
 ### Requirements Satisfied

@@ -14,7 +14,7 @@ Recitations: 1 session / week, 1 hour / session
 Prerequisites
 -------------
 
-[_18.02 Multivariable Calculus_](/courses/18-02-multivariable-calculus-fall-2007/)
+[_18.02 Multivariable Calculus_](/courses/18-02-multivariable-calculus-fall-2007)
 
 Description
 -----------

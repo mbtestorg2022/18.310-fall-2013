@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 9cd54542-9af7-b8e5-1429-ebe268c359eb
 resourcetype: Image
 title: 18-310_classroom-2.jpg
 uid: cc43c8c0-8c7e-096a-3de0-018a841368dc
